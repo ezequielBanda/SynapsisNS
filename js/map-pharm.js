@@ -12,7 +12,7 @@ $('#map').one('inview', function(event, isInView, visiblePartX, visiblePartY) {
 
         var mapOptions = {
           zoom: 15,
-          center: new google.maps.LatLng(42.356697, -71.059541),
+          center: new google.maps.LatLng(32.6362186, -115.47320460000003),
           scrollwheel: false,
 
           // disable mapType-top_right corner
@@ -28,7 +28,7 @@ $('#map').one('inview', function(event, isInView, visiblePartX, visiblePartY) {
         mapOptions);
 
         var marker1 = new google.maps.Marker({
-            position: new google.maps.LatLng(42.359012, -71.059541),
+            position: new google.maps.LatLng(32.6362186, -115.47320460000003),
             map: map,
             icon: 'images/pin3.png' // This path is the custom pin to be shown. Remove this line and the proceeding comma to use default pin
         });
