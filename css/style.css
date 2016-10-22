@@ -911,6 +911,14 @@ header li + li {
   transition: all 0.2s ease;
   z-index: 3;
 }
+
+
+
+
+
+
+
+
 .doctors-section #team h6 {
   margin-top: 24px;
   margin-bottom: 24px;
@@ -2470,6 +2478,10 @@ main {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
+
+
+
+
 
 .left {
   float: left;
