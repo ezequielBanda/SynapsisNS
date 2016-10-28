@@ -1051,7 +1051,7 @@ header li + li {
 .departments-section {
   width: 100%;
   padding: 100px 0;
-  background: url("../images/background1.jpg") 50% 0 no-repeat fixed;
+  background: url("../images/background2.jpg") 50% 0 no-repeat fixed;
   -moz-background-size: cover;
   -o-background-size: cover;
   -webkit-background-size: cover;
@@ -4303,6 +4303,8 @@ font-family: 'PT Sans', sans-serif;
   content: "\e60a";
 }
 
+
+
 @font-face {
   font-family: 'icomoon';
   src: url("../fonts/icomoon2d50.eot?amwk8f");
@@ -4409,6 +4411,13 @@ font-family: 'PT Sans', sans-serif;
 
 .icon-Sano11:before {
   content: "\e615";
+}
+
+.icon-Sano12:before {
+  content:  url("../images/Iconos/carrito.png");
+ width: 50px; 
+    height: 50px;
+
 }
 
 /* --------------------------------------------------------------------------------------

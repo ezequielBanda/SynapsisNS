@@ -193,6 +193,90 @@
       </section>
 
 
+         <section id="departments" class="departments-section"> 
+        <div class="container">
+          
+          <ul>
+            <li>
+              <article>
+                <div class="depart1 btn1 more-btn " data-text="text1">                
+                  <span class="icon icon-Sanoicons_EMERGENCY"> </span>
+                </div>
+                <h5>Tienda WEB</h5>
+                <div id="text1" class="tx">
+                  <p>Ingresa a nuestra tienda web y compra de forma rapida y segura.</p>
+                </div>
+                
+              </article><!-- 
+               --><article>
+                <div class="depart2 btn2 more-btn " data-text="text2">
+                  <span class="icon icon-Sanoicons_RESEARCH"></span>
+                </div>
+                <h5>Servicio a Domicilio</h5>
+                <div id="text2" class="tx">
+                  <p>Enviamos nuestros pedidos a domicilio sin costo adicional en todo México</p>
+                </div>
+               
+              </article>
+            </li>
+            <li>
+              <article>
+                <div class="depart3 btn3 more-btn" data-text="text3">
+                  <span class=" icon icon-Sanoicons_LABORATORY"></span>
+                </div>
+                <h5>CALL CENTER</h5>
+                <div id="text3" class="tx">
+                  <p>Contactanos vía telefonica y un asesor Farmaceutico te atenderá.</p>
+                </div>
+                
+              </article><!-- 
+               --><article>
+                <div class="depart4 btn4 more-btn" data-text="text4">
+                  <span class=" icon icon-Sano4"></span>
+                </div>
+                <h5>Asesoria Farmaceutica</h5>
+                <div id="text4" class="tx">
+                  <p>Te ayudamos a elegir las marcas de mayor calidad al mejor precio</p>
+                </div>
+               
+              </article>
+            </li> 
+            <li>
+              <article>
+                <div class="depart5 btn5 more-btn" data-text="text5">
+                  <span class=" icon icon-Sano7"></span>
+                  
+                </div>
+                <h5>OFICINAS DE VENTA</h5>
+                <div id="text5" class="tx">
+                  <p>Visitanos con gusto te atenderemos personalmente</p>
+                </div>
+                
+              </article><!-- 
+               --><article>
+               <div class="depart6 btn6 more-btn" data-text="text6">
+                <span class=" icon icon-Sanoicons_CARDIOLOGY"></span>
+                 
+               </div>
+                <h5>Entregas Programadas</h5>
+                <div id="text6" class="tx">
+                  <p>¿Padeces una enfermedad cronica? tu tratamiento garantizado cada mes</p>
+                </div>
+               
+              </article>
+            </li> 
+            
+          </ul>
+        </div>
+
+      </section>
+        
+        
+        
+        
+        
+        
+        
       <!--aqui termina seccion inicio -->
 
         
@@ -203,7 +287,7 @@
           <h3></h3>
           <div class=" ">
             
-         <article id="team">
+        <!--  <article id="team">
             <ul>
               <li>
                 <img src="images/Banners/BannercentralCotizaaqui-copia.jpg" alt="">              
@@ -214,7 +298,7 @@
               </li>          
             </ul>
              
-          </article>
+          </article>-->
           </div>
           <div class="clearfix"></div>  
         </div>
@@ -270,9 +354,9 @@
 
       <section id="appoitment" class="appoitment-section">
         <div class="container">
-          <h3>INITIAL CONSULTATION IS FREE, WITH NO OBLIGATION</h3>
+          <h3></h3>
           <div class="initial right">
-            <a href="#main-appoitment" class="medium btn main-appoitment">MAKE AN APPOINTMENT</a>
+            <a href="#main-appoitment" class="medium btn main-appoitment"></a>
           </div>
           <div class="clearfix"></div>  
         </div>
@@ -345,9 +429,9 @@
 
       <section id="appoitment" class="appoitment-section">
         <div class="container">
-          <h3>INITIAL CONSULTATION IS FREE, WITH NO OBLIGATION</h3>
+          <h3></h3>
           <div class="initial right">
-            <a href="#main-appoitment" class="medium btn main-appoitment">MAKE AN APPOINTMENT</a>
+            <a href="#main-appoitment" class="medium btn main-appoitment"></a>
           </div>
           <div class="clearfix"></div>  
         </div>
@@ -407,24 +491,30 @@
       
       <section id="description" class="description-section">
         <div class="container">
-          <h1>WHAT YOU SAY</h1>
           <ul class="rslides">
             <li>
               <div class="center">
-                <p>" I can't say enough about how good you all are. You can build a state of the art medical facility anywhere, but the people working in this building cannot be found just anywhere. Thank you for making us feel comfortable during all the time! "</p>
-                <small>John Smith, California</small>
+                   <h1>HONESTIDAD:</h1>
+                <p>Con Nuestro clientes, colaboradores y proveedores.</p>
+                <small></small>
               </div>
             </li>
             <li>
               <div class="center">
-                <p>"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto, tempora, reprehenderit delectus soluta incidunt perspiciatis animi repellat excepturi provident officia doloremque atque dolorem nobis deleniti eveniet laborum porro voluptatum magnam!"</p>
-                <small>Enrico Lopez, Brasil</small>
+                 <h1>RESPETO:</h1>
+                <p>al paciente, a la receta medica y a la legislación sanitaria.</p>
               </div>
             </li>
             <li>
               <div class="center">
-                <p>"Minus, ad, officia, eius non quisquam totam odio aliquam fuga sit beatae iste enim obcaecati earum nisi hic itaque asperiores a sint aspernatur rerum quae quo provident ab pariatur qui quam ipsum laboriosam. Dignissimos, voluptate neque unde earum consequuntur eaque maiores autem quo!"</p>
-                <small>Victoria Rose, Canada</small>
+               <h1>EFICIENCIA:</h1>
+                <p>en nuestros procesos de venta y distribución.</p>
+              </div>
+            </li>
+              <li>
+              <div class="center">
+               <h1>COMPROMISO:</h1>
+                <p>con la salud de nuestros clientes y su economia.</p>
               </div>
             </li>
           </ul>
