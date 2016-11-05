@@ -290,7 +290,7 @@
 
       <section id="hippocrate" class="hippocrate-section">
         <div class="container">
-          <h1>" SLOGAN."</h1>
+          <h1>" Lider en Innovación y Atención Farmacéutica."</h1>
           <p>Synapsis Pharma</p>
         </div>
 
