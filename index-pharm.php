@@ -52,6 +52,7 @@
         <nav>
           <ul>
             <li><a href="#about">QUIENES SOMOS</a></li>
+           <!-- <li><a href="#departaments">QUIENES SOMOS</a></li>  -->
             <li><a href="#clinic">MARCAS</a></li>
             <li><a href="#clinic2">CLIENTES</a></li>  
             <li><a href="#map">CONTACTANOS</a></li>
@@ -138,8 +139,112 @@
 
       </section>
 
-      <!-- END ABOUT -->
+        
+   <!-- BEGIN APPOITMENT --> 
 
+      <section id="appoitment" class="appoitment-section">
+        <div class="container">
+          <h3>Visita Nuestra Tienda WEB</h3>
+          <div class="initial right">
+            <a href="https://synapsispharma.com.mx/" target="_blank" class="medium btn main-appoitment">VISITA</a>
+          </div>
+          <div class="clearfix"></div>  
+        </div>
+
+      </section>
+
+      <!-- END APPOITMENT -->
+    
+        <!-- Departamentos -->
+
+    <section id="departments" class="departments-section"> 
+        <div class="container">
+          
+          <ul>
+            <li>
+                <article>
+                <div class="depart1 btn1 more-btn" data-text="text1">
+                  <span class="icon icon-Sanoicons_EMERGENCY"></span>
+                </div>
+                <h5>Tienda WEB</h5>
+                <div id="text1" class="tx">
+                  <p>Ingresa a nuestra tienda web y compra de forma rapida y segura.</p>
+                </div>
+                <h6 class="btn1 more-btn" data-text="text1">+MAS</h6>
+              </article><!-- 
+               --><article>
+                <div class="depart2 btn2 more-btn " data-text="text2">
+                  <span class="icon icon-Sanoicons_RESEARCH"></span>
+                </div>
+                <h5>Servicio a Domicilio</h5>
+                <div id="text2" class="tx">
+                  <p>Enviamos nuestros pedidos a domicilio sin costo adicional en todo México.</p>
+                </div>
+               <h6 class="btn2 more-btn" data-text="text2">+MAS</h6>
+              </article>
+            </li>
+            <li>
+                <article>
+                <div class="depart3 btn3 more-btn" data-text="text3">
+                  <span class=" icon icon-Sanoicons_CARDIOLOGY"></span>
+                </div>
+                <h5>CALL CENTER</h5>
+                <div id="text3" class="tx">
+                  <p>Contactanos vía telefonica y un asesor Farmaceutico te atenderá.</p>
+                </div>
+                <h6 class="btn3 more-btn" data-text="text3">+MAS</h6>
+              </article><!-- 
+               --><article>
+                <div class="depart4 btn4 more-btn" data-text="text4">
+                  <span class=" icon icon-Sano4"></span>
+                </div>
+                <h5>sesoria Farmaceutica</h5>
+                <div id="text4" class="tx">
+                  <p>Te ayudamos a elegir las marcas de mayor calidad al mejor precio</p>
+                </div>
+               <h6 class="btn4 more-btn" data-text="text4">+MAS</h6>
+              </article>
+            </li> 
+            <li>
+                <article>
+                <div class="depart5 btn5 more-btn" data-text="text5">
+                  <span class=" icon icon-Sano7"></span>
+                  
+                </div>
+                <h5>OFICINAS DE VENTA</h5>
+                <div id="text5" class="tx">
+                  <p>Visitanos con gusto te atenderemos personalmente</p>
+                </div>
+                <h6 class="btn5 more-btn" data-text="text5">+MAS</h6>
+              </article><!-- 
+               --><article>
+               <div class="depart6 btn6 more-btn" data-text="text6">
+                <span class=" icon-Sanoicons_CARDIOLOGY"></span>
+                 
+               </div>
+                <h5>Entregas Programadas</h5>
+                <div id="text6" class="tx">
+                  <p>¿Padeces una enfermedad cronica? tu tratamiento garantizado cada mes</p>
+                </div>
+               <h6 class="btn6 more-btn" data-text="text6">+Mas</h6>
+              </article>
+            </li> 
+            
+          </ul>
+        </div>
+
+      </section>    
+        
+         <!-- Fin de departamentos -->
+        
+        
+      <!-- END ABOUT -->
+        
+       
+        
+        
+        
+        
         <!-- BEGIN YOU SAY -->
       
       <section id="description" class="description-section">
@@ -226,7 +331,6 @@
                   <div><span></span></div>
               </a>
             </div><!--  
-
              --><div class="mix second popup-gallery ">
               <a href="images/ClientesyMarcas/grupo4laboratorios.png" >
                   <img src="images/ClientesyMarcas/grupo4laboratorios.png" alt="">
@@ -234,7 +338,6 @@
               </a>
 
             </div><!--  
-
              --><div class="mix  third popup-gallery">
               <a href="images/ClientesyMarcas/grupo2laboratorios.png">
                   <img src="images/ClientesyMarcas/grupo2laboratorios.png" alt="">
@@ -242,7 +345,6 @@
               </a>
 
             </div><!-- 
-
              --><div class="mix  fourth popup-gallery">
               <a href="images/ClientesyMarcas/grupo3laboratorios.png">
                   <img src="images/ClientesyMarcas/grupo3laboratorios.png" alt="">
@@ -250,7 +352,48 @@
               </a>
 
             </div><!-- 
+             --><div class="mix  first popup-gallery">
+              <a href="images/ClientesyMarcas/grupo3laboratorios.png">
+                  <img src="images/ClientesyMarcas/grupo3laboratorios.png" alt="">
+                  <div><span></span></div>
+              </a>
 
+            </div><!-- 
+             --> <div class="mix  second popup-gallery">
+              <a href="images/ClientesyMarcas/grupo3laboratorios.png">
+                  <img src="images/ClientesyMarcas/grupo3laboratorios.png" alt="">
+                  <div><span></span></div>
+              </a>
+
+            </div><!-- 
+             --> <div class="mix  first popup-gallery">
+              <a href="images/ClientesyMarcas/grupo3laboratorios.png">
+                  <img src="images/ClientesyMarcas/grupo3laboratorios.png" alt="">
+                  <div><span></span></div>
+              </a>
+
+            </div><!-- 
+             --><div class="mix  three popup-gallery">
+              <a href="images/ClientesyMarcas/grupo3laboratorios.png">
+                  <img src="images/ClientesyMarcas/grupo3laboratorios.png" alt="">
+                  <div><span></span></div>
+              </a>
+
+            </div><!-- 
+             --><div class="mix  fourth popup-gallery">
+              <a href="images/ClientesyMarcas/grupo3laboratorios.png">
+                  <img src="images/ClientesyMarcas/grupo3laboratorios.png" alt="">
+                  <div><span></span></div>
+              </a>
+
+            </div><!-- 
+             --><div class="mix  second popup-gallery">
+              <a href="images/ClientesyMarcas/grupo3laboratorios.png">
+                  <img src="images/ClientesyMarcas/grupo3laboratorios.png" alt="">
+                  <div><span></span></div>
+              </a>
+
+            </div><!-- 
              --> 
           </div>
 
@@ -314,14 +457,14 @@
           <article id="team">
             <ul>
               <li>
-                <img src="images/ClientesyMarcas/clientess.jpg" alt="">              
+                <img src="images/ClientesyMarcas/clientess1.jpg" alt="">              
                 <div >
                   <h6>Gobierno</h6>
                   <p></p>
                 </div>              
               </li><!-- 
                --><li>
-                <img src="images/ClientesyMarcas/clientess1.jpg" alt="">
+                <img src="images/ClientesyMarcas/clientess2.jpg" alt="">
                 <div >
                   <h6>Hospitales</h6>
                   <p> </p>
@@ -329,7 +472,7 @@
                 </div> 
               </li><!-- 
                --><li>
-                <img src="images/ClientesyMarcas/clientess2.jpg" alt="">
+                <img src="images/ClientesyMarcas/clientess3.jpg" alt="">
                 <div >
                   <h6>Aseguradoras</h6>
                   <p></p>
@@ -379,6 +522,8 @@
                  <h6>Email </h6>                  
                  <p>compras@synapsispharma.com</p>
                  <p>ventas@synapsispharma.com</p>
+                <p >administracion@synapsispharma</p>
+                   <p> .com</p>
                 </li>
                 <li>
                   <h6>Tel:</h6>
@@ -400,7 +545,9 @@
           <form action="../email/email.php" id="contact-form" method="post" >
               <div class="select2">
               <select id="e2" name="department">
-                <option value="0">-Administracion -</option>
+                <option value="0">-Administración -</option>
+                  <option value="1">-Ventas -</option>
+                  <option value="2">-Compras -</option>
               </select>
             </div>
             <div class="input">
@@ -426,10 +573,29 @@
                 <span>Mensaje *</span>
                 <textarea  name="message" id="message"></textarea>
               </label>
-              <div class="right">
-              
-                <button type="submit" value="enviar" class="">ENVIAR MENSAJE</button>
+             
+               <div class="human-test right">
+                <div id="test">
+                  <p>Selecionar Número: <strong><span class="number"></span></strong></p>
+                </div>
+                <label class="btn numbers" >
+                  <input type="radio" name="rand" value="one"><span>1</span>
+                </label>
+                <label class="btn numbers">
+                  <input type="radio" name="rand" value="two"><span>2</span>
+                </label>
+                <label class="btn numbers">
+                  <input type="radio" name="rand" value="three"><span>3</span>
+                </label>
+                <label class="btn numbers">
+                  <input type="radio" name="rand" value="four"><span>4</span>
+                </label>
+                <label class="btn numbers">
+                  <input type="radio" name="rand" value="five"><span>5</span>
+                </label>
+                <button type="submit" class="btn btn2">ENVIAR</button>
               </div>
+              
             </div>
           </form>
         </div>
@@ -452,13 +618,13 @@
       <ul>
        
         <li>
-          <a href="#"><span class="fa fa-facebook"></span></a>
+          <a href="https://www.facebook.com/synapsispharma" target="_blank"><span class="fa fa-facebook"></span></a>
         </li>
         <li>
-          <a href="#"><span class="fa fa-twitter"></span></a>
+          <a href="https://twitter.com/synapsispharma" target="_blank"><span class="fa fa-twitter"></span></a>
         </li>
         <li>
-          <a href="#"><span class="fa fa-google-plus"></span></a>
+          <a href="https://plus.google.com/118090966091291168327" target="_blank"><span class="fa fa-google-plus"></span></a>
         </li>
       </ul>
       <small>Synapsis Pharmaa&copy;2016. </small>

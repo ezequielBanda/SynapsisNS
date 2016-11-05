@@ -319,10 +319,10 @@ header span {
   margin-right: -20px;
 }
 header span.active i {
-  color: #00a2e3;
+  color: #001489;
 }
 header span:hover i {
-  color: #00a2e3;
+  color: #001489;
 }
 header span i {
   font-size: 12px;
@@ -341,7 +341,7 @@ header li {
   display: inline-block;
 }
 header li.active a {
-  background-color: #00a2e3;
+  background-color: #001489;
   behavior: url("../PIE.html");
   position: relative;
   -moz-border-radius: 5px;
@@ -358,7 +358,7 @@ header li a {
   font-weight: 500;
 }
 header li a:hover {
-  background-color: #00a2e3;
+  background-color: #001489;
   behavior: url("../PIE.html");
   position: relative;
   -moz-border-radius: 5px;
@@ -396,16 +396,16 @@ header li + li {
 }
 
 .pharm header span.active i {
-  color: #00a1b2;
+  color: #001489;
 }
 .pharm header span:hover i {
-  color: #00a1b2;
+  color: #001489;
 }
 .pharm header li.active a {
-  background-color: #00a1b2;
+  background-color: #001489;
 }
 .pharm header li a:hover {
-  background-color: #00a1b2;
+  background-color: #001489;
 }
 
 /* --------------------------------------------------------------------------------------
@@ -1012,7 +1012,7 @@ header li + li {
 **************************************/
 .appoitment-section {
   width: 100%;
-  background-color: #00a2e3;
+  background-color: #001489;
   padding: 60px 0;
 }
 .appoitment-section h3 {
@@ -1031,7 +1031,7 @@ header li + li {
 }
 .appoitment-section div a:hover {
   background-color: #fff;
-  color: #00a2e3;
+  color: #001489;
 }
 
 /*************************************
@@ -1591,7 +1591,7 @@ header li + li {
 .clinic-section .filter_wrap .mix {
   opacity: 0;
   display: none;
-  width: 25%;
+  width: 12%;
   height: auto;
   position: relative;
   overflow: hidden;
@@ -2097,7 +2097,7 @@ header li + li {
 .map-section article .show p {
   margin-bottom: 5px;
   color: #585864;
-  font-weight: 500;
+  font-weight: 50;
 }
 .map-section article .show h6 {
   text-transform: uppercase;
@@ -4541,8 +4541,8 @@ label label.error {
   height: 34px;
   line-height: 32px;
   font-size: 12px;
-  border: 2px solid #00a2e3;
-  color: #00a2e3;
+  border: 2px solid #001489;
+  color: #001489;
 }
 .btn.small:hover {
   background: #00a2e3;

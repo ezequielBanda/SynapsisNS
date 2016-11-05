@@ -10,12 +10,12 @@ class email{
         $email=$emailEnv; // Recipients email ID  
         $name="Administracion SynapsisPharma"; // Recipient's name  
         $mail->From = "ezequiel.bandap@gmail.com";  
-        $mail->FromName = "Restablecer Contraseña";  
+        $mail->FromName = "lo que sea";  
         $mail->AddAddress($email);  
         $mail->AddReplyTo("No-Reply");  
         $mail->WordWrap = 50; // set word wrap  
         $mail->IsHTML(true); // send as HTML  
-        $mail->Subject = "Restablecimiento de Contraseña";  
+        $mail->Subject = "lo que sea";  
         $mail->Body = "";//HTML Body  
         $mail->AltBody = "This is the body when user views in plain text format"; //Text Body  
         if(!$mail->Send())  

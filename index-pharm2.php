@@ -227,8 +227,7 @@
                 <h5>CALL CENTER</h5>
                 <div id="text3" class="tx">
                   <p>Contactanos vía telefonica y un asesor Farmaceutico te atenderá.</p>
-                </div>
-                
+                </div>                
               </article><!-- 
                --><article>
                 <div class="depart4 btn4 more-btn" data-text="text4">
