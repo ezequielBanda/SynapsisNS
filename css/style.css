@@ -33,6 +33,7 @@ Made by:        ThemeStreet.Net
 		- #departments
 		- #pricing
 		- #clinic
+        - #clinic2
 		- #description
 		- #main-appoitment
 		- #hippocrate
@@ -913,12 +914,6 @@ header li + li {
 }
 
 
-
-
-
-
-
-
 .doctors-section #team h6 {
   margin-top: 24px;
   margin-bottom: 24px;
@@ -1646,6 +1641,9 @@ header li + li {
 .clinic-section .numbers li + li {
   margin-left: 30px;
 }
+
+
+
 
 /*************************************
 ************************************** 
@@ -2411,6 +2409,9 @@ header li + li {
 .pharm #clinic .numbers li span {
   color: #00a1b2;
 }
+
+
+
 .pharm #main-appoitment .human-test p .number {
   color: #00a1b2 !important;
 }
@@ -6906,6 +6907,8 @@ footer small {
   .clinic-section .numbers li + li {
     margin-left: 3%;
   }
+    
+
 
   .description-section p {
     width: 100%;
@@ -7007,6 +7010,7 @@ footer small {
   .clinic-section .filter_wrap .mix {
     width: 50%;
   }
+   
 }
 @media (max-width: 910px) {
   header nav {
@@ -7251,6 +7255,8 @@ footer small {
   .clinic-section .numbers ul {
     padding: 0 5%;
   }
+    
+  
 
   .main-appoitment-section .select2 {
     margin: 0 auto 10px;
@@ -7352,3 +7358,4 @@ footer small {
     margin-left: 22%;
   }
 }
+
