@@ -319,10 +319,10 @@ header span {
   margin-right: -20px;
 }
 header span.active i {
-  color: #001489;
+  color: #1B365D;
 }
 header span:hover i {
-  color: #001489;
+  color: #1B365D;
 }
 header span i {
   font-size: 12px;
@@ -341,7 +341,7 @@ header li {
   display: inline-block;
 }
 header li.active a {
-  background-color: #001489;
+  background-color: #1B365D;
   behavior: url("../PIE.html");
   position: relative;
   -moz-border-radius: 5px;
@@ -358,7 +358,7 @@ header li a {
   font-weight: 500;
 }
 header li a:hover {
-  background-color: #001489;
+  background-color: #1B365D;
   behavior: url("../PIE.html");
   position: relative;
   -moz-border-radius: 5px;
@@ -396,16 +396,16 @@ header li + li {
 }
 
 .pharm header span.active i {
-  color: #001489;
+  color: #1B365D;
 }
 .pharm header span:hover i {
-  color: #001489;
+  color: #1B365D;
 }
 .pharm header li.active a {
-  background-color: #001489;
+  background-color: #1B365D;
 }
 .pharm header li a:hover {
-  background-color: #001489;
+  background-color: #1B365D;
 }
 
 /* --------------------------------------------------------------------------------------
@@ -1012,7 +1012,7 @@ header li + li {
 **************************************/
 .appoitment-section {
   width: 100%;
-  background-color: #001489;
+  background-color: #1B365D;
   padding: 60px 0;
 }
 .appoitment-section h3 {
@@ -1031,7 +1031,7 @@ header li + li {
 }
 .appoitment-section div a:hover {
   background-color: #fff;
-  color: #001489;
+  color: #1B365D;
 }
 
 /*************************************
@@ -1046,7 +1046,7 @@ header li + li {
 .departments-section {
   width: 100%;
   padding: 100px 0;
-  background: url("../images/background2.jpg") 50% 0 no-repeat fixed;
+  background: url("../images/background4.jpg") 50% 0 no-repeat fixed;
   -moz-background-size: cover;
   -o-background-size: cover;
   -webkit-background-size: cover;
@@ -1287,7 +1287,7 @@ header li + li {
   transform: translate(-50%, -50%);
 }
 .departments-section li article:hover h6 {
-  color: #00a2e3;
+  color: #1B365D;
 }
 .departments-section li article:hover h6 {
   margin-bottom: 0;
@@ -1298,10 +1298,10 @@ header li + li {
   cursor: pointer;
 }
 .departments-section li article:hover .more-btn {
-  border-color: #00a2e3;
+  border-color: #1B365D;
 }
 .departments-section li article:hover .more-btn span {
-  color: #00a2e3;
+  color: #1B365D;
 }
 .departments-section li article:hover h6 {
   margin-bottom: 0;
@@ -1312,7 +1312,7 @@ header li + li {
   cursor: pointer;
 }
 .departments-section li article:hover h6:hover {
-  color: #00a2e3;
+  color: #1B365D;
 }
 .departments-section li article:first-child {
   text-align: right;
@@ -1575,11 +1575,11 @@ header li + li {
   font-weight: 500;
 }
 .clinic-section .filter_wrap .filter:hover {
-  background-color: #00a2e3;
+  background-color: #1B365D;
   color: #fff;
 }
 .clinic-section .filter_wrap .filter.active {
-  background-color: #00a2e3;
+  background-color: #1B365D;
   color: #fff;
 }
 .clinic-section .filter_wrap a {
@@ -1627,7 +1627,7 @@ header li + li {
   font-size: 70px;
   height: 60px;
   line-height: 60px;
-  color: #00a2e3;
+  color: #1B365D;
   font-weight: 500;
   margin-bottom: 0;
   display: inline-block;
@@ -1660,7 +1660,7 @@ header li + li {
   text-align: center;
   overflow-x: hidden;
   height: auto;
-  background: url("../images/background2.jpg") 50% 0 no-repeat fixed;
+  background: url("../images/background4.jpg") 50% 0 no-repeat fixed;
   -moz-background-size: cover;
   -o-background-size: cover;
   -webkit-background-size: cover;
@@ -1800,8 +1800,8 @@ header li + li {
   margin-left: 0;
 }
 .main-appoitment-section .btn1 {
-  border: 2px solid #00a2e3;
-  color: #00a2e3;
+  border: 2px solid #1B365D;
+  color: #1B365D;
   background-color: #fff;
   display: inline-block;
   margin-top: 0;
@@ -1813,19 +1813,19 @@ header li + li {
   font-size: 14px;
 }
 .main-appoitment-section .btn1:hover {
-  border: 2px solid #00a2e3;
-  background-color: #00a2e3;
+  border: 2px solid #1B365D;
+  background-color: #1B365D;
   color: #fff;
 }
 .main-appoitment-section .btn2 {
-  border: 2px solid #00a2e3;
-  background-color: #00a2e3;
+  border: 2px solid #1B365D;
+  background-color: #1B365D;
   color: #fff;
   line-height: 45px !important;
 }
 .main-appoitment-section .btn2:hover {
-  border: 2px solid #0094CF;
-  background-color: #0094CF;
+  border: 2px solid #1B365D;
+  background-color: #1B365D;
 }
 .main-appoitment-section .human-test {
   margin-top: 30px;
@@ -1838,7 +1838,7 @@ header li + li {
   display: block;
 }
 .main-appoitment-section .human-test #test .number {
-  color: #00a2e3;
+  color: #1B365D;
   vertical-align: top;
   display: inline-block;
   margin-top: -5px;
@@ -1873,13 +1873,13 @@ header li + li {
   transition: all 0.4s ease;
 }
 .main-appoitment-section .human-test label:hover {
-  background-color: #00a2e3;
+  background-color: #1B365D;
 }
 .main-appoitment-section .human-test label:hover span {
   color: #fff;
 }
 .main-appoitment-section .human-test label.active1 {
-  background-color: #00a2e3;
+  background-color: #1B365D;
 }
 .main-appoitment-section .human-test label.active1 span {
   color: #fff;
@@ -2109,10 +2109,10 @@ header li + li {
 
 .veterinary #doctors .main-appoitment {
   color: #3fb094 !important;
-  border-color: #3fb094 !important;
+  border-color: #1B365D !important;
 }
 .veterinary #doctors .main-appoitment:hover {
-  background-color: #3fb094 !important;
+  background-color: #1B365D !important;
   color: #fff !important;
 }
 .veterinary #doctors #team p {
@@ -2122,41 +2122,41 @@ header li + li {
   background-color: rgba(63, 176, 148, 0.75);
 }
 .veterinary #doctors .about-doctors .left p {
-  color: #3fb094 !important;
+  color: #1B365D !important;
 }
 .veterinary #doctors .close:hover {
-  color: #3fb094 !important;
+  color: #1B365D !important;
 }
 .veterinary #appoitment {
-  background-color: #3fb094 !important;
+  background-color: #1B365D !important;
 }
 .veterinary #appoitment .main-appoitment:hover {
-  color: #3fb094 !important;
+  color: #1B365D !important;
 }
 .veterinary #departments article:hover .more-btn {
-  color: #3fb094 !important;
-  border-color: #3fb094 !important;
+  color: #1B365D !important;
+  border-color: #1B365D !important;
 }
 .veterinary #departments article:hover .more-btn span {
-  color: #3fb094 !important;
+  color: #1B365D !important;
 }
 .veterinary #pricing article:nth-child(2) li:first-child {
-  background-color: #3fb094;
+  background-color: #1B365D;
 }
 .veterinary #pricing article:nth-child(2) li:last-child {
-  background-color: #3fb094;
+  background-color: #1B365D;
 }
 .veterinary #pricing article:nth-child(2) li:last-child a:hover {
-  color: #3fb094;
+  color: #1B365D;
 }
 .veterinary #pricing article:nth-child(3) li:first-child {
-  background-color: #36937c;
+  background-color: #1B365D;
 }
 .veterinary #pricing article:nth-child(3) li:last-child {
-  background-color: #36937c;
+  background-color: #1B365D;
 }
 .veterinary #pricing article:nth-child(3) li:last-child a:hover {
-  color: #36937c;
+  color: #1B365D;
 }
 .veterinary #pricing article:nth-child(4) li:first-child {
   background-color: #c23571;
@@ -2180,7 +2180,7 @@ header li + li {
   color: #2e7d69;
 }
 .veterinary #clinic .filter_wrap .filter.active, .veterinary #clinic .filter_wrap .filter:hover {
-  background-color: #3fb094;
+  background-color: #1B365D;
   color: #fff;
 }
 .veterinary #clinic .filter_wrap .mix a > div {
@@ -2190,17 +2190,17 @@ header li + li {
   color: #3fb094;
 }
 .veterinary #main-appoitment .human-test p .number {
-  color: #3fb094 !important;
+  color: #1B365D !important;
 }
 .veterinary #main-appoitment .human-test .numbers:hover {
-  background-color: #3fb094;
+  background-color: #1B365D;
 }
 .veterinary #main-appoitment .human-test .numbers.active1 {
-  background-color: #3fb094;
+  background-color: #1B365D;
 }
 .veterinary #main-appoitment .human-test button {
-  background-color: #3fb094 !important;
-  border-color: #3fb094 !important;
+  background-color: #1B365D !important;
+  border-color: #1B365D !important;
 }
 .veterinary #main-appoitment .date a {
   border-color: #3fb094 !important;
@@ -2328,55 +2328,55 @@ header li + li {
 }
 
 .pharm #doctors .main-appoitment {
-  color: #00a1b2 !important;
-  border-color: #00a1b2 !important;
+  color: #1B365D !important;
+  border-color: #1B365D !important;
 }
 .pharm #doctors .main-appoitment:hover {
-  background-color: #00a1b2 !important;
+  background-color: #1B365D !important;
   color: #fff !important;
 }
 .pharm #doctors #team p {
-  color: #00a1b2 !important;
+  color: #1B365D!important;
 }
 .pharm #doctors #team .doct:before {
   background-color: rgba(0, 161, 178, 0.75);
 }
 .pharm #doctors .about-doctors .left p {
-  color: #00a1b2 !important;
+  color: #1B365D !important;
 }
 .pharm #doctors .close:hover {
-  color: #00a1b2 !important;
+  color: #1B365D !important;
 }
 .pharm #appoitment {
-  background-color: #00a1b2 !important;
+  background-color: #1B365D !important;
 }
 .pharm #appoitment .main-appoitment:hover {
-  color: #00a1b2 !important;
+  color: #1B365D !important;
 }
 .pharm #departments article:hover .more-btn {
-  color: #00a1b2 !important;
-  border-color: #00a1b2 !important;
+  color: #1B365D !important;
+  border-color: #1B365D !important;
 }
 .pharm #departments article:hover .more-btn span {
-  color: #00a1b2 !important;
+  color: #1B365D !important;
 }
 .pharm #pricing article:nth-child(2) li:first-child {
-  background-color: #00a1b2;
+  background-color: #1B365D;
 }
 .pharm #pricing article:nth-child(2) li:last-child {
-  background-color: #00a1b2;
+  background-color: #1B365D;
 }
 .pharm #pricing article:nth-child(2) li:last-child a:hover {
-  color: #00a1b2;
+  color: #1B365D;
 }
 .pharm #pricing article:nth-child(3) li:first-child {
-  background-color: #008d9c;
+  background-color: #1B365D;
 }
 .pharm #pricing article:nth-child(3) li:last-child {
-  background-color: #008d9c;
+  background-color: #1B365D;
 }
 .pharm #pricing article:nth-child(3) li:last-child a:hover {
-  color: #008d9c;
+  color: #1B365D;
 }
 .pharm #pricing article:nth-child(4) li:first-child {
   background-color: #e79a32;
@@ -2400,44 +2400,44 @@ header li + li {
   color: #006f7b;
 }
 .pharm #clinic .filter_wrap .filter.active, .pharm #clinic .filter_wrap .filter:hover {
-  background-color: #00a1b2;
+  background-color: #1B365D;
   color: #fff;
 }
 .pharm #clinic .filter_wrap .mix a > div {
-  background-color: rgba(0, 161, 178, 0.75);
+  background-color: rgba(0, 27, 54, 93);
 }
 .pharm #clinic .numbers li span {
-  color: #00a1b2;
+  color: #1B365D;
 }
 
 
 
 .pharm #main-appoitment .human-test p .number {
-  color: #00a1b2 !important;
+  color: #1B365D !important;
 }
 .pharm #main-appoitment .human-test .numbers:hover {
-  background-color: #00a1b2;
+  background-color: #1B365D;
 }
 .pharm #main-appoitment .human-test .numbers.active1 {
-  background-color: #00a1b2;
+  background-color: #1B365D;
 }
 .pharm #main-appoitment .human-test button {
-  background-color: #00a1b2 !important;
-  border-color: #00a1b2 !important;
+  background-color: #1B365D !important;
+  border-color: #1B365D !important;
 }
 .pharm #main-appoitment .date a {
-  border-color: #00a1b2 !important;
-  color: #00a1b2 !important;
+  border-color: #1B365D !important;
+  color: #1B365D !important;
 }
 .pharm #main-appoitment .date a:hover {
-  background-color: #00a1b2 !important;
+  background-color: #1B365D !important;
   color: #fff !important;
 }
 .pharm #description:after {
-  background-color: rgba(0, 161, 178, 0.75);
+  background-color: rgba(0, 27, 54, 93);
 }
 .pharm #map article {
-  background-color: rgba(0, 161, 178, 0.85);
+  background-color: rgba(0, 27, 54, 93);
 }
 
 /* --------------------------------------------------------------------------------------
@@ -4456,7 +4456,7 @@ input[type="text"], textarea {
 }
 input[type="text"]:hover, input[type="text"]:focus, textarea:hover, textarea:focus {
   background-color: #f1f1f5;
-  border: 2px solid #00a2e3;
+  border: 2px solid #1B365D;
 }
 input[type="text"]:invalid, textarea:invalid {
   -moz-box-shadow: none;
@@ -4466,7 +4466,7 @@ input[type="text"]:invalid, textarea:invalid {
 }
 input[type="text"].error, textarea.error {
   background-color: #f1f1f5;
-  border: 2px solid #00a2e3;
+  border: 2px solid #1B365D;
   color: #585864;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -4506,10 +4506,10 @@ label label.error {
 }
 
 .pharm input[type="text"]:hover, .pharm input[type="text"]:focus, .pharm textarea:hover, .pharm textarea:focus {
-  border: 2px solid #00a1b2;
+  border: 2px solid #1B365D;
 }
 .pharm input[type="text"].error, .pharm textarea.error {
-  border: 2px solid #00a1b2;
+  border: 2px solid #1B365D;
 }
 
 /* --------------------------------------------------------------------------------------
@@ -4956,7 +4956,7 @@ label label.error {
   line-height: 50px;
   color: #fff;
   text-decoration: none;
-  background-color: #00a2e3;
+  background-color: #1B365D;
   border-radius: 5px;
   font-weight: 700;
   -webkit-box-sizing: border-box;
@@ -5028,7 +5028,7 @@ label label.error {
   top: 100%;
   background: #fff;
   color: #848499;
-  border: 2px solid #00a2e3;
+  border: 2px solid #1B365D;
   border-top: 0;
   border-radius: 0 0 5px 5px;
 }
@@ -5044,7 +5044,7 @@ label label.error {
 
 .select2-drop.select2-drop-above {
   margin-top: 1px;
-  border-top: 2px solid #00a2e3;
+  border-top: 2px solid #1B365D;
   border-bottom: 0;
   border-radius: 5px 5px 0 0;
 }
@@ -5193,7 +5193,7 @@ label label.error {
 }
 
 .select2-results .select2-highlighted {
-  color: #00a2e3;
+  color: #1B365D;
 }
 
 .select2-results li em {
@@ -5423,16 +5423,16 @@ disabled look for disabled choices in the results dropdown
   }
 }
 .veterinary .select2-container .select2-choice {
-  background-color: #3fb094;
+  background-color: #1B365D;
 }
 .veterinary .select2-drop {
-  border-color: #3fb094 !important;
+  border-color: #1B365D !important;
 }
 .veterinary .select2-drop .select2-result.select2-highlighted {
-  color: #3fb094 !important;
+  color: #1B365D !important;
 }
 .veterinary .select2-drop .select2-result:hover span {
-  color: #3fb094 !important;
+  color: #1B365D !important;
 }
 
 .dental .select2-container .select2-choice {
@@ -5449,16 +5449,16 @@ disabled look for disabled choices in the results dropdown
 }
 
 .pharm .select2-container .select2-choice {
-  background-color: #00a1b2;
+  background-color: #1B365D;
 }
 .pharm .select2-drop {
-  border-color: #00a1b2 !important;
+  border-color: #1B365D !important;
 }
 .pharm .select2-drop .select2-result.select2-highlighted {
-  color: #00a1b2 !important;
+  color: #1B365D !important;
 }
 .pharm .select2-drop .select2-result:hover span {
-  color: #00a1b2 !important;
+  color: #1B365D !important;
 }
 
 /* --------------------------------------------------------------------------------------
@@ -5485,7 +5485,7 @@ disabled look for disabled choices in the results dropdown
 }
 
 .pharm .nicescroll-rails > div {
-  background-color: #00a1b2 !important;
+  background-color: #1B365D !important;
 }
 
 /* --------------------------------------------------------------------------------------
@@ -6160,7 +6160,7 @@ img.mfp-img {
   height: 100%;
 }
 .subheader-section .owl-carousel .owl-item img {
-  display: block;
+ display: block;
   width: 100%;
   -webkit-transform-style: preserve-3d;
 }
@@ -6527,7 +6527,7 @@ img.mfp-img {
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
   border-radius: 50%;
-  background-color: #00a2e3;
+  background-color: #1B365D;
   width: 130px;
   height: 130px;
   display: block;
@@ -6589,7 +6589,7 @@ img.mfp-img {
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
   border-radius: 50%;
-  background-color: #00a2e3;
+  background-color: #1B365D;
   width: 130px;
   height: 130px;
   display: block;
@@ -6603,7 +6603,7 @@ img.mfp-img {
   margin-top: 0;
 }
 .about-section .owl-carousel .owl-item.center .item h4 {
-  color: #00a2e3;
+  color: #1B365D;
   display: block;
   text-align: center;
   margin-bottom: 0;
@@ -6651,13 +6651,13 @@ img.mfp-img {
 }
 
 .veterinary #about .owl-carousel .owl-item .item div:hover {
-  background-color: #3fb094;
+  background-color: #1B365D;
 }
 .veterinary #about .owl-carousel .owl-item.center .item div {
-  background-color: #3fb094;
+  background-color: #1B365D;
 }
 .veterinary #about .owl-carousel .owl-item.center .item h4 {
-  color: #3fb094;
+  color: #1B365D;
 }
 
 .dental #about .owl-carousel .owl-item .item div:hover {
@@ -6671,13 +6671,13 @@ img.mfp-img {
 }
 
 .pharm #about .owl-carousel .owl-item .item div:hover {
-  background-color: #00a1b2;
+  background-color: #1B365D;
 }
 .pharm #about .owl-carousel .owl-item.center .item div {
-  background-color: #00a1b2;
+  background-color: #1B365D;
 }
 .pharm #about .owl-carousel .owl-item.center .item h4 {
-  color: #00a1b2;
+  color: #1B365D;
 }
 
 /* --------------------------------------------------------------------------------------
@@ -6764,8 +6764,8 @@ footer a {
   border: 2px solid #585864;
 }
 footer a:hover {
-  border: 2px solid #00a2e3;
-  background-color: #00a2e3;
+  border: 2px solid #1B365D;
+  background-color: #1B365D;
 }
 footer span {
   margin-top: 8px;
@@ -6777,18 +6777,18 @@ footer small {
 }
 
 .veterinary footer a:hover {
-  border: 2px solid #3fb094;
-  background-color: #3fb094;
+  border: 2px solid #1B365D;
+  background-color: #1B365D;
 }
 
 .dental footer a:hover {
-  border: 2px solid #4460a7;
-  background-color: #4460a7;
+  border: 2px solid #1B365D;
+  background-color: #1B365D;
 }
 
 .pharm footer a:hover {
-  border: 2px solid #00a1b2;
-  background-color: #00a1b2;
+  border: 2px solid #1B365D;
+  background-color: #1B365D;
 }
 
 /* --------------------------------------------------------------------------------------
