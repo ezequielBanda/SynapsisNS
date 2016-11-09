@@ -33,6 +33,7 @@ Made by:        ThemeStreet.Net
 		- #departments
 		- #pricing
 		- #clinic
+        - #clinic2
 		- #description
 		- #main-appoitment
 		- #hippocrate
@@ -318,10 +319,10 @@ header span {
   margin-right: -20px;
 }
 header span.active i {
-  color: #00a2e3;
+  color: #1B365D;
 }
 header span:hover i {
-  color: #00a2e3;
+  color: #1B365D;
 }
 header span i {
   font-size: 12px;
@@ -911,6 +912,8 @@ header li + li {
   transition: all 0.2s ease;
   z-index: 3;
 }
+
+
 .doctors-section #team h6 {
   margin-top: 24px;
   margin-bottom: 24px;
@@ -1284,7 +1287,7 @@ header li + li {
   transform: translate(-50%, -50%);
 }
 .departments-section li article:hover h6 {
-  color: #00a2e3;
+  color: #1B365D;
 }
 .departments-section li article:hover h6 {
   margin-bottom: 0;
@@ -1588,7 +1591,7 @@ header li + li {
 .clinic-section .filter_wrap .mix {
   opacity: 0;
   display: none;
-  width: 12.5%;
+  width: 12%;
   height: auto;
   position: relative;
   overflow: hidden;
@@ -1639,6 +1642,9 @@ header li + li {
   margin-left: 30px;
 }
 
+
+
+
 /*************************************
 ************************************** 
 ************************************** 
@@ -1654,7 +1660,7 @@ header li + li {
   text-align: center;
   overflow-x: hidden;
   height: auto;
-  background: url("../images/background5.jpg") 50% 0 no-repeat fixed;
+  background: url("../images/background1.jpg") 50% 0 no-repeat fixed;
   -moz-background-size: cover;
   -o-background-size: cover;
   -webkit-background-size: cover;
@@ -1680,7 +1686,7 @@ header li + li {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 27, 54, 93);
+  background-color: rgba(0, 162, 227, 0.65);
   display: block;
 }
 .description-section h1 {
@@ -1902,7 +1908,7 @@ header li + li {
 .hippocrate-section {
   text-align: center;
   width: 100%;
-  background: url("../images/background5.jpg") 50% 0 no-repeat fixed;
+  background: url("../images/background4.jpg") 50% 0 no-repeat fixed;
   -moz-background-size: cover;
   -o-background-size: cover;
   -webkit-background-size: cover;
@@ -2054,7 +2060,7 @@ header li + li {
   visibility: visible\9;
   display: none\9;
   bottom: 0;
-  width: 300px;
+  width: 260px;
   padding: 42px 30px;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -2091,7 +2097,7 @@ header li + li {
 .map-section article .show p {
   margin-bottom: 5px;
   color: #585864;
-  font-weight: 500;
+  font-weight: 50;
 }
 .map-section article .show h6 {
   text-transform: uppercase;
@@ -2103,10 +2109,10 @@ header li + li {
 
 .veterinary #doctors .main-appoitment {
   color: #3fb094 !important;
-  border-color: #3fb094 !important;
+  border-color: #1B365D !important;
 }
 .veterinary #doctors .main-appoitment:hover {
-  background-color: #3fb094 !important;
+  background-color: #1B365D !important;
   color: #fff !important;
 }
 .veterinary #doctors #team p {
@@ -2116,41 +2122,41 @@ header li + li {
   background-color: rgba(63, 176, 148, 0.75);
 }
 .veterinary #doctors .about-doctors .left p {
-  color: #3fb094 !important;
+  color: #1B365D !important;
 }
 .veterinary #doctors .close:hover {
-  color: #3fb094 !important;
+  color: #1B365D !important;
 }
 .veterinary #appoitment {
-  background-color: #3fb094 !important;
+  background-color: #1B365D !important;
 }
 .veterinary #appoitment .main-appoitment:hover {
-  color: #3fb094 !important;
+  color: #1B365D !important;
 }
 .veterinary #departments article:hover .more-btn {
-  color: #3fb094 !important;
-  border-color: #3fb094 !important;
+  color: #1B365D !important;
+  border-color: #1B365D !important;
 }
 .veterinary #departments article:hover .more-btn span {
-  color: #3fb094 !important;
+  color: #1B365D !important;
 }
 .veterinary #pricing article:nth-child(2) li:first-child {
-  background-color: #3fb094;
+  background-color: #1B365D;
 }
 .veterinary #pricing article:nth-child(2) li:last-child {
-  background-color: #3fb094;
+  background-color: #1B365D;
 }
 .veterinary #pricing article:nth-child(2) li:last-child a:hover {
-  color: #3fb094;
+  color: #1B365D;
 }
 .veterinary #pricing article:nth-child(3) li:first-child {
-  background-color: #36937c;
+  background-color: #1B365D;
 }
 .veterinary #pricing article:nth-child(3) li:last-child {
-  background-color: #36937c;
+  background-color: #1B365D;
 }
 .veterinary #pricing article:nth-child(3) li:last-child a:hover {
-  color: #36937c;
+  color: #1B365D;
 }
 .veterinary #pricing article:nth-child(4) li:first-child {
   background-color: #c23571;
@@ -2174,7 +2180,7 @@ header li + li {
   color: #2e7d69;
 }
 .veterinary #clinic .filter_wrap .filter.active, .veterinary #clinic .filter_wrap .filter:hover {
-  background-color: #3fb094;
+  background-color: #1B365D;
   color: #fff;
 }
 .veterinary #clinic .filter_wrap .mix a > div {
@@ -2184,17 +2190,17 @@ header li + li {
   color: #3fb094;
 }
 .veterinary #main-appoitment .human-test p .number {
-  color: #3fb094 !important;
+  color: #1B365D !important;
 }
 .veterinary #main-appoitment .human-test .numbers:hover {
-  background-color: #3fb094;
+  background-color: #1B365D;
 }
 .veterinary #main-appoitment .human-test .numbers.active1 {
-  background-color: #3fb094;
+  background-color: #1B365D;
 }
 .veterinary #main-appoitment .human-test button {
-  background-color: #3fb094 !important;
-  border-color: #3fb094 !important;
+  background-color: #1B365D !important;
+  border-color: #1B365D !important;
 }
 .veterinary #main-appoitment .date a {
   border-color: #3fb094 !important;
@@ -2315,7 +2321,7 @@ header li + li {
   color: #fff !important;
 }
 .dental #description:after {
-  background-color: rgba(68, 96, 167, 0.75);
+  background-color: rgba(0, 27, 54, 93);
 }
 .dental #map article {
   background-color: rgba(68, 96, 167, 0.85);
@@ -2330,7 +2336,7 @@ header li + li {
   color: #fff !important;
 }
 .pharm #doctors #team p {
-  color: #1B365D !important;
+  color: #1B365D!important;
 }
 .pharm #doctors #team .doct:before {
   background-color: rgba(0, 161, 178, 0.75);
@@ -2398,11 +2404,14 @@ header li + li {
   color: #fff;
 }
 .pharm #clinic .filter_wrap .mix a > div {
-  background-color: rgba(0, 27, 54, 0.5);
+  background-color: rgba(0, 27, 54, 93);
 }
 .pharm #clinic .numbers li span {
   color: #1B365D;
 }
+
+
+
 .pharm #main-appoitment .human-test p .number {
   color: #1B365D !important;
 }
@@ -2425,10 +2434,10 @@ header li + li {
   color: #fff !important;
 }
 .pharm #description:after {
-  background-color: rgba(0, 27, 54, 0.5);
+  background-color: rgba(0, 27, 54, 93);
 }
 .pharm #map article {
-  background-color: rgba(0, 27, 54, 0.5);
+  background-color: rgba(0, 27, 54, 93);
 }
 
 /* --------------------------------------------------------------------------------------
@@ -2470,6 +2479,10 @@ main {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
+
+
+
+
 
 .left {
   float: left;
@@ -4291,6 +4304,8 @@ font-family: 'PT Sans', sans-serif;
   content: "\e60a";
 }
 
+
+
 @font-face {
   font-family: 'icomoon';
   src: url("../fonts/icomoon2d50.eot?amwk8f");
@@ -4399,6 +4414,13 @@ font-family: 'PT Sans', sans-serif;
   content: "\e615";
 }
 
+.icon-Sano12:before {
+  content:  url("../images/Iconos/carrito.png");
+ width: 50px; 
+    height: 50px;
+
+}
+
 /* --------------------------------------------------------------------------------------
 +
 + FORMS
@@ -4470,14 +4492,14 @@ label label.error {
 }
 
 .veterinary input[type="text"]:hover, .veterinary input[type="text"]:focus, .veterinary textarea:hover, .veterinary textarea:focus {
-  border: 2px solid #1B365D;
+  border: 2px solid #3fb094;
 }
 .veterinary input[type="text"].error, .veterinary textarea.error {
-  border: 2px solid #1B365D;
+  border: 2px solid #3fb094;
 }
 
 .dental input[type="text"]:hover, .dental input[type="text"]:focus, .dental textarea:hover, .dental textarea:focus {
-  border: 2px solid #1B365D;
+  border: 2px solid #4460a7;
 }
 .dental input[type="text"].error, .dental textarea.error {
   border: 2px solid #4460a7;
@@ -4519,8 +4541,8 @@ label label.error {
   height: 34px;
   line-height: 32px;
   font-size: 12px;
-  border: 2px solid #00a2e3;
-  color: #00a2e3;
+  border: 2px solid #001489;
+  color: #001489;
 }
 .btn.small:hover {
   background: #00a2e3;
@@ -5171,7 +5193,7 @@ label label.error {
 }
 
 .select2-results .select2-highlighted {
-  color: #00a2e3;
+  color: #1B365D;
 }
 
 .select2-results li em {
@@ -5401,16 +5423,16 @@ disabled look for disabled choices in the results dropdown
   }
 }
 .veterinary .select2-container .select2-choice {
-  background-color: #3fb094;
+  background-color: #1B365D;
 }
 .veterinary .select2-drop {
-  border-color: #3fb094 !important;
+  border-color: #1B365D !important;
 }
 .veterinary .select2-drop .select2-result.select2-highlighted {
-  color: #3fb094 !important;
+  color: #1B365D !important;
 }
 .veterinary .select2-drop .select2-result:hover span {
-  color: #3fb094 !important;
+  color: #1B365D !important;
 }
 
 .dental .select2-container .select2-choice {
@@ -5463,7 +5485,7 @@ disabled look for disabled choices in the results dropdown
 }
 
 .pharm .nicescroll-rails > div {
-  background-color: #00a1b2 !important;
+  background-color: #1B365D !important;
 }
 
 /* --------------------------------------------------------------------------------------
@@ -6138,7 +6160,7 @@ img.mfp-img {
   height: 100%;
 }
 .subheader-section .owl-carousel .owl-item img {
-  display: block;
+ display: block;
   width: 100%;
   -webkit-transform-style: preserve-3d;
 }
@@ -6581,7 +6603,7 @@ img.mfp-img {
   margin-top: 0;
 }
 .about-section .owl-carousel .owl-item.center .item h4 {
-  color: #00a2e3;
+  color: #1B365D;
   display: block;
   text-align: center;
   margin-bottom: 0;
@@ -6629,13 +6651,13 @@ img.mfp-img {
 }
 
 .veterinary #about .owl-carousel .owl-item .item div:hover {
-  background-color: #3fb094;
+  background-color: #1B365D;
 }
 .veterinary #about .owl-carousel .owl-item.center .item div {
-  background-color: #3fb094;
+  background-color: #1B365D;
 }
 .veterinary #about .owl-carousel .owl-item.center .item h4 {
-  color: #3fb094;
+  color: #1B365D;
 }
 
 .dental #about .owl-carousel .owl-item .item div:hover {
@@ -6755,13 +6777,13 @@ footer small {
 }
 
 .veterinary footer a:hover {
-  border: 2px solid #3fb094;
-  background-color: #3fb094;
+  border: 2px solid #1B365D;
+  background-color: #1B365D;
 }
 
 .dental footer a:hover {
-  border: 2px solid #4460a7;
-  background-color: #4460a7;
+  border: 2px solid #1B365D;
+  background-color: #1B365D;
 }
 
 .pharm footer a:hover {
@@ -6885,6 +6907,8 @@ footer small {
   .clinic-section .numbers li + li {
     margin-left: 3%;
   }
+    
+
 
   .description-section p {
     width: 100%;
@@ -6986,6 +7010,7 @@ footer small {
   .clinic-section .filter_wrap .mix {
     width: 50%;
   }
+   
 }
 @media (max-width: 910px) {
   header nav {
@@ -7143,7 +7168,7 @@ footer small {
   }
   .about-section .slide_element li h4 {
     margin-bottom: 60px;
-    color: #1B365D;
+    color: #00a2e3;
   }
   .about-section .slide_element li p {
     display: block !important;
@@ -7230,6 +7255,8 @@ footer small {
   .clinic-section .numbers ul {
     padding: 0 5%;
   }
+    
+  
 
   .main-appoitment-section .select2 {
     margin: 0 auto 10px;
@@ -7331,3 +7358,4 @@ footer small {
     margin-left: 22%;
   }
 }
+
